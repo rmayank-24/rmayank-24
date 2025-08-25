@@ -136,7 +136,7 @@ graph TD
 <td width="33%" align="center" valign="top">
 <h3><strong>💳 AI Fraud Detection</strong></h3>
 <a href="https://github.com/rmayank-24/AI-POWERED-FRAUD-DETECTION-SYSTEM">
-<img src="https://raw.githubusercontent.com/rmayank-24/AI-POWERED-FRAUD-DETECTION-SYSTEM/main/images/banner.png" width="100%" style="border-radius: 15px; border: 2px solid #00FFE5; box-shadow: 0 0 30px rgba(0,255,229,0.8);">
+<img src="https://github.com/user-attachments/assets/222e4765-ca0a-4986-8e56-4b70c2f3a13d" width="100%" style="border-radius: 15px; border: 2px solid #00FFE5; box-shadow: 0 0 30px rgba(0,255,229,0.8);">
 </a>
 <p><strong>Real-time Anomaly Detection System</strong></p>
 <table>
@@ -156,7 +156,7 @@ graph TD
 <td width="33%" align="center" valign="top">
 <h3><strong>📈 EVAL-AI</strong></h3>
 <a href="https://github.com/rmayank-24/EVAL-AI">
-<img src="https://raw.githubusercontent.com/rmayank-24/EVAL-AI/main/images/banner.png" width="100%" style="border-radius: 15px; border: 2px solid #FFD700; box-shadow: 0 0 30px rgba(255,215,0,0.8);">
+<img src="https://github.com/user-attachments/assets/e9d11d3e-0cbb-42d6-9e9a-52142a797b7b" width="100%" style="border-radius: 15px; border: 2px solid #FFD700; box-shadow: 0 0 30px rgba(255,215,0,0.8);">
 </a>
 <p><strong>AI Model Evaluation Platform</strong></p>
 <table>
