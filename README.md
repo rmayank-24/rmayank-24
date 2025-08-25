@@ -16,7 +16,37 @@
 
 <table>
 <tr>
-<td width="65%" valign="top">
+<td width="40%" valign="top">
+
+<img src="https://github-stats-alpha.vercel.app/api?username=rmayank-24&cc=0D1117&tc=00FFE5&ic=FFD700&bc=00FFE5" width="100%">
+
+<div align="center">🧠 CORE METRICS</div>
+class MayankRathi:
+    def __init__(self):
+        self.name = "Mayank Rathi"
+        self.role = "GenAI Engineer"
+        self.location = "Jaipur, India"
+        
+    @property
+    def achievements(self):
+        return {
+            "🎯": "Fraud Detection Accuracy ~99%",
+            "⚡": "Real-time System Latency",
+            "🤖": "Multi-Agent System Design",
+            "📈": "End-to-End AI Pipelines"
+        }
+    
+    @property
+    def current_focus(self):
+        return [
+            "🤖 Multi-Agent Systems",
+            "🔗 LangGraph Orchestration",
+            "🚀 Scalable RAG Pipelines",
+            "💡 Production-Grade AI"
+        ]
+
+</td>
+<td width="60%" valign="top">
 <h2 align="center">🚀 Flagship AI Systems</h2>
 <p align="center"><i>A selection of production-ready systems and prototypes.</i></p>
 <hr>
@@ -27,7 +57,7 @@
 </div>
 <p align="center">
 <a href="https://github.com/rmayank-24/AI-POWERED-FRAUD-DETECTION-SYSTEM">
-<img src="https://github.com/user-attachments/assets/222e4765-ca0a-4986-8e56-4b70c2f3a13d" width="90%" style="border-radius: 15px; border: 2px solid #00FFE5; box-shadow: 0 0 30px rgba(0,255,229,0.8);">
+<img src="https://github.com/user-attachments/assets/222e4765-ca0a-4b70c2f3a13d" width="90%" style="border-radius: 15px; border: 2px solid #00FFE5; box-shadow: 0 0 30px rgba(0,255,229,0.8);">
 </a>
 </p>
 <table>
@@ -62,91 +92,6 @@
 <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
 </div>
-<br><hr><br>
-
-<h3 align="center">🌦️ Weather MCP Agent</h3>
-<div align="center">
-<a href="https://github.com/rmayank-24/Weather_MCP_Agent"><img src="https://img.shields.io/badge/STATUS-PROTOTYPE-00D9FF?style=flat&labelColor=0D1117"></a>
-</div>
-<p align="center">
-<a href="https://github.com/rmayank-24/Weather_MCP_Agent">
-<img src="https://raw.githubusercontent.com/rmayank-24/Weather_MCP_Agent/main/images/banner.png" width="90%" style="border-radius: 15px; border: 2px solid #00D9FF; box-shadow: 0 0 30px rgba(0,217,255,0.8);">
-</a>
-</p>
-<table>
-<tr><td><strong>🧠 Agents</strong></td><td><code>MCP, Notary, etc.</code></td></tr>
-<tr><td><strong>🤝 Coordination</strong></td><td><code>Multi-Agent</code></td></tr>
-<tr><td><strong>📡 Data Source</strong></td><td><code>Live Weather API</code></td></tr>
-</table>
-<div align="center">
-<img src="https://img.shields.io/badge/Agentic_AI-FF00FF?style=flat-square&logo=probot&logoColor=white">
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/API-2F855A?style=flat-square">
-</div>
-</td>
-<td width="35%" valign="top">
-<h3 align="center"><strong>🤖 AI Engineer Profile</strong></h3>
-
-class MayankRathi:
-  def __init__(self):
-      self.name = "Mayank Rathi"
-      self.role = "GenAI Engineer"
-      self.location = "Jaipur, India"
-  
-  @property
-  def current_focus(self):
-      return [
-          "🤖 Multi-Agent Systems",
-          "🔗 LangGraph Orchestration",
-          "🚀 Scalable RAG Pipelines",
-          "💡 Production-Grade AI"
-      ]
-
-<hr>
-<h3 align="center"><strong>🎯 Core Competencies</strong></h3>
-
-graph TD
-    A[Core Expertise] --> B[Agentic AI];
-    A --> C[RAG/Vector DBs];
-    A --> D[MLOps];
-    subgraph Agentic AI
-        B1[LangGraph];
-        B2[CrewAI];
-    end
-    subgraph RAG/Vector DBs
-        C1[ChromaDB];
-        C2[Pinecone];
-    end
-    subgraph MLOps
-        D1[Docker];
-        D2[FastAPI];
-    end
-    style A fill:#FF00FF,stroke:#fff,color:#000
-
-<hr>
-<h3 align="center"><strong>🏆 Why Collaborate?</strong></h3>
-<div align="center">
-<table>
-<tr><td align="center"><strong>⚡ RAPID PROTOTYPING</strong><br>From concept to functional demo quickly.</td></tr>
-<tr><td align="center"><strong>🎯 END-TO-END SOLUTIONS</strong><br>Covering data pipelines, model deployment, and UI.</td></tr>
-<tr><td align="center"><strong>🧠 DATA-DRIVEN INSIGHTS</strong><br>Focus on building robust, measurable systems.</td></tr>
-</table>
-</div>
-<hr>
-<h3 align="center"><strong>📈 Looking For...</strong></h3>
-
-class IdealOpportunity:
-  def __init__(self):
-      self.roles = [
-          "🚀 GenAI Engineer",
-          "🤖 Agentic Systems Dev",
-          "💎 High-Impact Internships"
-      ]
-      self.focus = [
-          "AI-First Products",
-          "Innovative Teams"
-      ]
-
 </td>
 </tr>
 </table>
