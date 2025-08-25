@@ -14,105 +14,64 @@
 <img src="https://komarev.com/ghpvc/?username=rmayank-24&label=PROFILE+VIEWS&color=FF00FF&style=flat-square&labelColor=0D1117" alt="Profile Views">
 </div>
 
-<table>
-<tr>
-<td width="40%" valign="top">
-
-<img src="https://github-stats-alpha.vercel.app/api?username=rmayank-24&cc=0D1117&tc=00FFE5&ic=FFD700&bc=00FFE5" width="100%">
-
-<div align="center">🧠 CORE METRICS</div>
-class MayankRathi:
-    def __init__(self):
-        self.name = "Mayank Rathi"
-        self.role = "GenAI Engineer"
-        self.location = "Jaipur, India"
-        
-    @property
-    def achievements(self):
-        return {
-            "🎯": "Fraud Detection Accuracy ~99%",
-            "⚡": "Real-time System Latency",
-            "🤖": "Multi-Agent System Design",
-            "📈": "End-to-End AI Pipelines"
-        }
-    
-    @property
-    def current_focus(self):
-        return [
-            "🤖 Multi-Agent Systems",
-            "🔗 LangGraph Orchestration",
-            "🚀 Scalable RAG Pipelines",
-            "💡 Production-Grade AI"
-        ]
-
-</td>
-<td width="60%" valign="top">
 <h2 align="center">🚀 Flagship AI Systems</h2>
 <p align="center"><i>A selection of production-ready systems and prototypes.</i></p>
-<hr>
 
-<h3 align="center">💳 AI-Powered Fraud Detection System</h3>
-<div align="center">
+<table>
+<tr>
+<td width="33.3%" align="center" valign="top">
+<h3 align="center">💳 AI-Powered Fraud Detection</h3>
 <a href="https://github.com/rmayank-24/AI-POWERED-FRAUD-DETECTION-SYSTEM"><img src="https://img.shields.io/badge/STATUS-PRODUCTION_READY-00FF00?style=flat&labelColor=0D1117"></a>
-</div>
-<p align="center">
+<p>An end-to-end system that uses a multi-model ensemble (XGBoost, GNNs) to detect fraudulent transactions in real-time with sub-second latency.</p>
 <a href="https://github.com/rmayank-24/AI-POWERED-FRAUD-DETECTION-SYSTEM">
 <img src="https://github.com/user-attachments/assets/222e4765-ca0a-4986-8e56-4b70c2f3a13d" width="90%" style="border-radius: 15px; border: 2px solid #00FFE5; box-shadow: 0 0 30px rgba(0,255,229,0.8);">
 </a>
-</p>
-<table>
-<tr><td><strong>🎯 Accuracy</strong></td><td><code>~99%</code></td></tr>
-<tr><td><strong>⚙️ Pipeline</strong></td><td><code>End-to-End</code></td></tr>
-<tr><td><strong>⚡ Latency</strong></td><td><code>Real-time</code></td></tr>
-<tr><td><strong>📊 UI</strong></td><td><code>Streamlit</code></td></tr>
-</table>
-<div align="center">
+<br><br>
+<strong>Key Features:</strong>
+<ul>
+<li><strong>Accuracy:</strong> ~99% detection rate</li>
+<li><strong>Core Models:</strong> XGBoost, Isolation Forest, GNN</li>
+<li><strong>Interface:</strong> Interactive Streamlit Dashboard</li>
+</ul>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white">
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white">
-</div>
-<br><hr><br>
-
-<h3 align="center">📈 EVAL-AI: AI Model Evaluator</h3>
-<div align="center">
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
+</td>
+<td width="33.3%" align="center" valign="top">
+<h3 align="center">📈 EVAL-AI: Model Evaluator</h3>
 <a href="https://github.com/rmayank-24/EVAL-AI"><img src="https://img.shields.io/badge/STATUS-LIVE_DEMO-FFD700?style=flat&labelColor=0D1117"></a>
-</div>
-<p align="center">
+<p>A comprehensive, web-based tool for evaluating and comparing machine learning models. Supports multiple classification metrics and visualizations.</p>
 <a href="https://github.com/rmayank-24/EVAL-AI">
 <img src="https://github.com/user-attachments/assets/e9d11d3e-0cbb-42d6-9e9a-52142a797b7b" width="90%" style="border-radius: 15px; border: 2px solid #FFD700; box-shadow: 0 0 30px rgba(255,215,0,0.8);">
 </a>
-</p>
-<table>
-<tr><td><strong>🤖 Models Supported</strong></td><td><code>Classification</code></td></tr>
-<tr><td><strong>📈 Key Metrics</strong></td><td><code>Accuracy, F1, ROC</code></td></tr>
-<tr><td><strong>💻 Interface</strong></td><td><code>Web-based (Flask)</code></td></tr>
-</table>
-<div align="center">
+<br><br>
+<strong>Key Features:</strong>
+<ul>
+<li><strong>Metrics:</strong> Accuracy, Precision, Recall, F1, ROC</li>
+<li><strong>Use Case:</strong> Classification Model Analysis</li>
+<li><strong>Stack:</strong> Python, Flask, TensorFlow</li>
+</ul>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white">
 <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white">
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
-</div>
-<br><hr><br>
-
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white">
+</td>
+<td width="33.3%" align="center" valign="top">
 <h3 align="center">🌦️ Weather MCP Agent</h3>
-<div align="center">
 <a href="https://github.com/rmayank-24/Weather_MCP_Agent"><img src="https://img.shields.io/badge/STATUS-PROTOTYPE-00D9FF?style=flat&labelColor=0D1117"></a>
-</div>
-<p align="center">
+<p>A conversational, multi-agent system for delivering real-time weather intelligence across India, leveraging advanced AI orchestration and RAG pipelines.</p>
 <a href="https://github.com/rmayank-24/Weather_MCP_Agent">
 <img src="https://raw.githubusercontent.com/rmayank-24/Weather_MCP_Agent/main/images/banner.png" width="90%" style="border-radius: 15px; border: 2px solid #00D9FF; box-shadow: 0 0 30px rgba(0,217,255,0.8);">
 </a>
-</p>
-<table>
-<tr><td><strong>🧠 Agents</strong></td><td><code>MCP, Notary, etc.</code></td></tr>
-<tr><td><strong>🤝 Coordination</strong></td><td><code>Multi-Agent</code></td></tr>
-<tr><td><strong>📡 Data Source</strong></td><td><code>Live Weather API</code></td></tr>
-</table>
-<div align="center">
-<img src="https://img.shields.io/badge/Agentic_AI-FF00FF?style=flat-square&logo=probot&logoColor=white">
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/API-2F855A?style=flat-square">
-</div>
+<br><br>
+<strong>Key Features:</strong>
+<ul>
+<li><strong>Architecture:</strong> Multi-Agent (MCP, Notary)</li>
+<li><strong>Core AI:</strong> LangChain, Groq/Llama 3, RAG</li>
+<li><strong>Interface:</strong> AI Weather Assistant</li>
+</ul>
+<img src="https://img.shields.io/badge/LangChain-1C1E26?style=flat-square&logo=langchain&logoColor=white">
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white">
+<img src="https://img.shields.io/badge/FAISS-4A90E2?style=flat-square&logo=facebook&logoColor=white">
 </td>
 </tr>
 </table>
