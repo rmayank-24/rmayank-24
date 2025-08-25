@@ -1,7 +1,7 @@
 <!-- 
-CORRECTED AND POLISHED README FOR MAYANK RATHI
+CORRECTED AND POLISHED README FOR MAYANK RATHI (v4)
 This version features a new header, an expanded and restructured technology stack, 
-and an updated color scheme to reflect a broader SDE and Data Analyst skillset.
+and fixes all previous rendering issues.
 -->
 
 <!-- =================================================================================================================== -->
@@ -9,7 +9,7 @@ and an updated color scheme to reflect a broader SDE and Data Analyst skillset.
 <!-- =================================================================================================================== -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=binary&color=gradient&customColorList=2,6,10,12,24&height=250&section=header&text=MAYANK%20RATHI&fontSize=70&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40" alt="Mayank Rathi | GenAI Engineer"/>
+  <img src="https://capsule-render.vercel.app/api?type=techno&color=gradient&customColorList=2,6,10,12,24&height=250&section=header&text=MAYANK%20RATHI&fontSize=70&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40" alt="Mayank Rathi"/>
 </div>
 
 <div align="center">
@@ -201,7 +201,7 @@ and an updated color scheme to reflect a broader SDE and Data Analyst skillset.
 <table>
 <tr>
 <td align="center" width="25%">
-  <strong>🤖 Agentic AI & LLMs</strong><br><br>
+  <strong>🤖 GenAI & Agents</strong><br><br>
   <img src="https://img.shields.io/badge/LangGraph-Advanced-FF00FF?style=flat-square&logo=graphql&logoColor=white&labelColor=0D1117"><br>
   <img src="https://img.shields.io/badge/LangChain-Expert-1C1E26?style=flat-square&logo=langchain&logoColor=white&labelColor=0D1117"><br>
   <img src="https://img.shields.io/badge/CrewAI-Proficient-FFD700?style=flat-square&logo=probot&logoColor=white&labelColor=0D1117"><br>
@@ -209,15 +209,15 @@ and an updated color scheme to reflect a broader SDE and Data Analyst skillset.
   <img src="https://img.shields.io/badge/Hugging_Face-Expert-FFD700?style=flat-square&logo=huggingface&logoColor=white&labelColor=0D1117">
 </td>
 <td align="center" width="25%">
-  <strong>💾 SDE Stack</strong><br><br>
-  <img src="https://img.shields.io/badge/C%2B%2B-Expert-00599C?style=flat-square&logo=cplusplus&logoColor=white&labelColor=0D1117"><br>
-  <img src="https://img.shields.io/badge/Java-Advanced-ED8B00?style=flat-square&logo=openjdk&logoColor=white&labelColor=0D1117"><br>
-  <img src="https://img.shields.io/badge/JavaScript-Proficient-F7DF1E?style=flat-square&logo=javascript&logoColor=black&labelColor=0D1117"><br>
+  <strong>💾 Full-Stack Development</strong><br><br>
+  <img src="https://img.shields.io/badge/React-Advanced-61DAFB?style=flat-square&logo=react&logoColor=black&labelColor=0D1117"><br>
+  <img src="https://img.shields.io/badge/TypeScript-Advanced-3178C6?style=flat-square&logo=typescript&logoColor=white&labelColor=0D1117"><br>
   <img src="https://img.shields.io/badge/Node.js-Proficient-339933?style=flat-square&logo=nodedotjs&logoColor=white&labelColor=0D1117"><br>
+  <img src="https://img.shields.io/badge/Firebase-Advanced-FFCA28?style=flat-square&logo=firebase&logoColor=black&labelColor=0D1117"><br>
   <img src="https://img.shields.io/badge/PostgreSQL-Advanced-4169E1?style=flat-square&logo=postgresql&logoColor=white&labelColor=0D1117">
 </td>
 <td align="center" width="25%">
-  <strong>📊 Data Analyst Stack</strong><br><br>
+  <strong>📊 Data Analysis & BI</strong><br><br>
   <img src="https://img.shields.io/badge/SQL-Expert-4479A1?style=flat-square&logo=mysql&logoColor=white&labelColor=0D1117"><br>
   <img src="https://img.shields.io/badge/Tableau-Proficient-E97627?style=flat-square&logo=tableau&logoColor=white&labelColor=0D1117"><br>
   <img src="https://img.shields.io/badge/Power_BI-Proficient-F2C811?style=flat-square&logo=powerbi&logoColor=black&labelColor=0D1117"><br>
@@ -226,9 +226,9 @@ and an updated color scheme to reflect a broader SDE and Data Analyst skillset.
 </td>
 <td align="center" width="25%">
   <strong>☁️ Core ML & MLOps</strong><br><br>
+  <img src="https://img.shields.io/badge/Python-Expert-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=0D1117"><br>
   <img src="https://img.shields.io/badge/PyTorch-Advanced-EE4C2C?style=flat-square&logo=pytorch&logoColor=white&labelColor=0D1117"><br>
   <img src="https://img.shields.io/badge/TensorFlow-Expert-FF6F00?style=flat-square&logo=tensorflow&logoColor=white&labelColor=0D1117"><br>
-  <img src="https://img.shields.io/badge/Scikit--learn-Expert-F7931E?style=flat-square&logo=scikit-learn&logoColor=white&labelColor=0D1117"><br>
   <img src="https://img.shields.io/badge/Docker-Advanced-2496ED?style=flat-square&logo=docker&logoColor=white&labelColor=0D1117"><br>
   <img src="https://img.shields.io/badge/AWS-Proficient-FF9900?style=flat-square&logo=amazonaws&logoColor=white&labelColor=0D1117">
 </td>
