@@ -1,14 +1,9 @@
 <div align="center">
-  <img src="https://reayan.com/d/Mayank%20Rathi/2/wave/00FFE5/FFD700" alt="Mayank Rathi | AI & Machine Learning Engineer" width="100%"/>
-</div>
-
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block;">Hi there, I'm Mayank Rathi 👋</h1></summary>
-  </ul>
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=0,2,6,12,24&height=250&section=header&text=Mayank%20Rathi&fontSize=80&fontColor=00FFE5&animation=twinkling&fontAlignY=38" alt="Mayank Rathi | AI & Machine Learning Engineer"/>
 </div>
 
 <div align="center">
+  <h1>Hi there, I'm Mayank Rathi 👋</h1>
   <p>
     I am an AI & Machine Learning Engineer passionate about building intelligent systems that solve real-world problems. 
     <br />
@@ -43,30 +38,28 @@
 
 ## 🛠️ My Technology Stack
 
-<table width="100%">
-  <tr>
-    <td align="center" width="33%">
-      <h4>Languages</h4>
-      <a href="https://www.python.org" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>
-      <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>
-      <a href="https://isocpp.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>
-    </td>
-    <td align="center" width="33%">
-      <h4>ML & Data Science</h4>
-      <a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-original-wordmark.svg" alt="TensorFlow" height="50" /></a>
-      <a href="https://scikit-learn.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/scikit-learn-logo-light.svg" alt="Scikit-Learn" height="50" /></a>
-      <a href="https://pandas.pydata.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pandas-original-wordmark.svg" alt="Pandas" height="50" /></a>
-      <a href="https://numpy.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/numpy-original-wordmark.svg" alt="NumPy" height="50" /></a>
-    </td>
-    <td align="center" width="33%">
-      <h4>Frameworks & Tools</h4>
-      <a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask-original-wordmark.svg" alt="Flask" height="50" /></a>
-      <a href="https://streamlit.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/streamlit-logo-primary-colormark-darktext.svg" alt="Streamlit" height="50" /></a>
-      <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>
-      <a href="https://git-scm.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <p>
+    <strong>Languages</strong><br>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  </p>
+  <p>
+    <strong>ML & Data Science</strong><br>
+    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+    <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
+    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+    <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  </p>
+  <p>
+    <strong>Frameworks & Tools</strong><br>
+    <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+    <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  </p>
+</div>
 
 ---
 
@@ -79,8 +72,8 @@ Here are some of the key projects I've worked on.
     <td width="33%" valign="top">
       <h3 align="center">💳 AI-Powered Fraud Detection</h3>
       <div align="center">
-        <a href="https://github.com/rmayank-24/AI-POWERED-FRAUD-DETECTION-SYSTEM">
-          <img src="https://github.com/user-attachments/assets/222e4765-ca0a-4986-8e56-4b70c2f3a13d" width="250" alt="Fraud Detection Project Banner" style="border-radius:10px;">
+        <a href="https://github.com/rmayank-24/AI-POWERED-FRAUD-DETECTION-SYSTEM" target="_blank">
+          <img src="https://github.com/user-attachments/assets/222e4765-ca0a-4986-8e56-4b70c2f3a13d" width="250" alt="Fraud Detection Project Banner" style="border-radius:10px; border:1px solid #00FFE5;">
         </a>
         <p>An end-to-end system that uses Isolation Forest to detect fraudulent transactions in real-time with ~99% accuracy.</p>
         <p>
@@ -93,8 +86,8 @@ Here are some of the key projects I've worked on.
     <td width="33%" valign="top">
       <h3 align="center">📈 EVAL-AI Model Evaluator</h3>
       <div align="center">
-        <a href="https://github.com/rmayank-24/EVAL-AI">
-          <img src="https://github.com/user-attachments/assets/e9d11d3e-0cbb-42d6-9e9a-52142a797b7b" width="250" alt="EVAL-AI Project Banner" style="border-radius:10px;">
+        <a href="https://github.com/rmayank-24/EVAL-AI" target="_blank">
+          <img src="https://github.com/user-attachments/assets/e9d11d3e-0cbb-42d6-9e9a-52142a797b7b" width="250" alt="EVAL-AI Project Banner" style="border-radius:10px; border:1px solid #FFD700;">
         </a>
         <p>A web-based platform for evaluating classification models, providing key metrics like accuracy, F1-score, and ROC curves.</p>
         <p>
@@ -107,8 +100,8 @@ Here are some of the key projects I've worked on.
     <td width="33%" valign="top">
       <h3 align="center">🌦️ Weather MCP Agent</h3>
       <div align="center">
-        <a href="https://github.com/rmayank-24/Weather_MCP_Agent">
-          <img src="https://raw.githubusercontent.com/rmayank-24/Weather_MCP_Agent/main/images/banner.png" width="250" alt="Weather Agent Project Banner" style="border-radius:10px;">
+        <a href="https://github.com/rmayank-24/Weather_MCP_Agent" target="_blank">
+          <img src="https://raw.githubusercontent.com/rmayank-24/Weather_MCP_Agent/main/images/banner.png" width="250" alt="Weather Agent Project Banner" style="border-radius:10px; border:1px solid #00D9FF;">
         </a>
         <p>An intelligent, multi-agent system that fetches, processes, and delivers weather data through coordinated agent communication.</p>
         <p>
