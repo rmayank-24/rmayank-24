@@ -1,5 +1,4 @@
-
-# <div align="center">![Header](https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=0,2,3,6,12,20,24,30&height=300&section=header&text=MAYANK%20KUMAR&fontSize=90&fontColor=FFFFFF&animation=scaleIn&fontAlignY=45&desc=🚀%20AI%20Engineer%20|%20Machine%20Learning%20|%20Agentic%20Systems&descAlignY=65&descSize=28&stroke=00FFE5&strokeWidth=3)</div>
+# <div align="center">![Header](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,3,6,12,20,24,30&height=200&section=header&text=Mayank%20Rathi&fontSize=70&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38)</div>
 
 <div align="center">
   
@@ -40,9 +39,9 @@
 ### <div align="center">🤖 **AI ENGINEER PROFILE**</div>
 
 ```python
-class MayankKumar:
+class MayankRathi:
     def __init__(self):
-        self.name = "Mayank Kumar"
+        self.name = "Mayank Rathi"
         self.role = "AI Engineer"
         self.location = "India"
         
@@ -77,7 +76,7 @@ class MayankKumar:
 ```mermaid
 %%{init: {'theme':'dark', 'themeVariables': { 'primaryColor': '#00FFE5', 'primaryTextColor': '#fff', 'primaryBorderColor': '#FFD700', 'lineColor': '#00FFE5', 'secondaryColor': '#FF00FF', 'tertiaryColor': '#00D9FF', 'mainBkg': '#0D1117', 'nodeBkg': '#1a1a1a'}}}%%
 flowchart TD
-    A[MAYANK KUMAR<br/>AI Engineer] --> B{Core Expertise}
+    A[MAYANK RATHI<br/>AI Engineer] --> B{Core Expertise}
     
     B --> C[🤖 MACHINE LEARNING]
     C --> C1[Fraud Detection Models]
@@ -362,5 +361,5 @@ flowchart TD
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,6,12,20,24,30&height=150&section=footer&animation=twinkling&fontColor=00FFE5&fontSize=20&fontAlignY=80&desc=©%202024%20Mayank%20Kumar%20|%20Architecting%20the%20Future%20with%20AI&descAlign=50&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,6,12,20,24,30&height=150&section=footer&animation=twinkling&fontColor=00FFE5&fontSize=20&fontAlignY=80&desc=©%202024%20Mayank%20Rathi%20|%20Architecting%20the%20Future%20with%20AI&descAlign=50&descSize=18" />
 </div>
