@@ -1,4 +1,4 @@
-# <div align="center">![Header](https://capsule-render.vercel.app/api?type=github&color=0D1117&height=200&section=header&text=Mayank%20Rathi&fontSize=70&fontColor=00FFE5&animation=fadeIn&fontAlignY=38)</div>
+# <div align="center">![Header](https://capsule-render.vercel.app/api?type=slice&color=0D1117&height=200&section=header&text=Mayank%20Rathi&fontSize=70&fontColor=00FFE5&animation=fadeIn)</div>
 
 <div align="center">
   
