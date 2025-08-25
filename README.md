@@ -1,16 +1,3 @@
-Excellent\! I have now customized the template I created for you with the personal links and information you provided.
-
-This version is tailored for you, **Mayank Rathi**, and features your GitHub username (`rmayank-24`), LinkedIn profile, and email. I've also updated the titles and skills to reflect the information from your original header, focusing on Multi-Agent Systems, LangGraph, and CrewAI.
-
------
-
-### Your Personalized README Code
-
-Simply copy the code below and paste it into your GitHub profile's `README.md` file.
-
-**Note:** I have set up the "Featured Projects" section for you. You will need to update the links and images for your own projects when you are ready.
-
-````markdown
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&color=0:B621FE,100:21F3FE&height=250&section=header&text=MAYANK%20RATHI&fontSize=70&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Multi-Agent%20Systems%20Developer%20•%20AI%20Engineer&descAlignY=62&descSize=22" alt="Header Banner"/>
 </div>
@@ -164,4 +151,3 @@ Simply copy the code below and paste it into your GitHub profile's `README.md` f
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:B621FE,100:21F3FE&height=150&section=footer&animation=twinkling&fontColor=FFFFFF&fontSize=20" alt="Footer Banner"/>
 </div>
-````
