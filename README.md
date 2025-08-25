@@ -1,7 +1,15 @@
+<!-- 
+CORRECTED AND POLISHED README FOR MAYANK RATHI
+This version features a new header, an expanded and restructured technology stack, 
+and an updated color scheme to reflect a broader SDE and Data Analyst skillset.
+-->
 
+<!-- =================================================================================================================== -->
+<!-- == HEADER & INTRODUCTION ========================================================================================== -->
+<!-- =================================================================================================================== -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,6,12,20,30&height=250&section=header&text=MAYANK%20RATHI&fontSize=70&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=AI%20Engineer%20•%20GenAI%20&%20Agentic%20Systems&descAlignY=62&descSize=22" alt="Mayank Rathi | GenAI Engineer"/>
+  <img src="https://capsule-render.vercel.app/api?type=binary&color=gradient&customColorList=2,6,10,12,24&height=250&section=header&text=MAYANK%20RATHI&fontSize=70&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40" alt="Mayank Rathi | GenAI Engineer"/>
 </div>
 
 <div align="center">
@@ -192,39 +200,37 @@
 <div align="center">
 <table>
 <tr>
-<td align="center" width="20%">
-  <strong>🤖 Agentic AI</strong><br><br>
+<td align="center" width="25%">
+  <strong>🤖 Agentic AI & LLMs</strong><br><br>
   <img src="https://img.shields.io/badge/LangGraph-Advanced-FF00FF?style=flat-square&logo=graphql&logoColor=white&labelColor=0D1117"><br>
   <img src="https://img.shields.io/badge/LangChain-Expert-1C1E26?style=flat-square&logo=langchain&logoColor=white&labelColor=0D1117"><br>
   <img src="https://img.shields.io/badge/CrewAI-Proficient-FFD700?style=flat-square&logo=probot&logoColor=white&labelColor=0D1117"><br>
-  <img src="https://img.shields.io/badge/AutoGen-Proficient-00D9FF?style=flat-square&logo=microsoft&logoColor=white&labelColor=0D1117">
-</td>
-<td align="center" width="20%">
-  <strong>🎨 LLM Platforms</strong><br><br>
   <img src="https://img.shields.io/badge/OpenAI-Advanced-412991?style=flat-square&logo=openai&logoColor=white&labelColor=0D1117"><br>
-  <img src="https://img.shields.io/badge/Hugging_Face-Expert-FFD700?style=flat-square&logo=huggingface&logoColor=white&labelColor=0D1117"><br>
-  <img src="https://img.shields.io/badge/Claude_3-Proficient-6B46C1?style=flat-square&logo=anthropic&logoColor=white&labelColor=0D1117"><br>
-  <img src="https://img.shields.io/badge/Gemini-Proficient-4285F4?style=flat-square&logo=google&logoColor=white&labelColor=0D1117">
+  <img src="https://img.shields.io/badge/Hugging_Face-Expert-FFD700?style=flat-square&logo=huggingface&logoColor=white&labelColor=0D1117">
 </td>
-<td align="center" width="20%">
-  <strong>💾 Vector DBs & RAG</strong><br><br>
-  <img src="https://img.shields.io/badge/Pinecone-Proficient-00BFB3?style=flat-square&logo=pinecone&logoColor=white&labelColor=0D1117"><br>
-  <img src="https://img.shields.io/badge/Chroma-Advanced-8B5CF6?style=flat-square&labelColor=0D1117"><br>
-  <img src="https://img.shields.io/badge/FAISS-Advanced-4A90E2?style=flat-square&logo=facebook&logoColor=white&labelColor=0D1117"><br>
+<td align="center" width="25%">
+  <strong>💾 SDE Stack</strong><br><br>
+  <img src="https://img.shields.io/badge/C%2B%2B-Expert-00599C?style=flat-square&logo=cplusplus&logoColor=white&labelColor=0D1117"><br>
+  <img src="https://img.shields.io/badge/Java-Advanced-ED8B00?style=flat-square&logo=openjdk&logoColor=white&labelColor=0D1117"><br>
+  <img src="https://img.shields.io/badge/JavaScript-Proficient-F7DF1E?style=flat-square&logo=javascript&logoColor=black&labelColor=0D1117"><br>
+  <img src="https://img.shields.io/badge/Node.js-Proficient-339933?style=flat-square&logo=nodedotjs&logoColor=white&labelColor=0D1117"><br>
+  <img src="https://img.shields.io/badge/PostgreSQL-Advanced-4169E1?style=flat-square&logo=postgresql&logoColor=white&labelColor=0D1117">
 </td>
-<td align="center" width="20%">
-  <strong>🧬 Core ML</strong><br><br>
+<td align="center" width="25%">
+  <strong>📊 Data Analyst Stack</strong><br><br>
+  <img src="https://img.shields.io/badge/SQL-Expert-4479A1?style=flat-square&logo=mysql&logoColor=white&labelColor=0D1117"><br>
+  <img src="https://img.shields.io/badge/Tableau-Proficient-E97627?style=flat-square&logo=tableau&logoColor=white&labelColor=0D1117"><br>
+  <img src="https://img.shields.io/badge/Power_BI-Proficient-F2C811?style=flat-square&logo=powerbi&logoColor=black&labelColor=0D1117"><br>
+  <img src="https://img.shields.io/badge/Excel-Expert-217346?style=flat-square&logo=microsoftexcel&logoColor=white&labelColor=0D1117"><br>
+  <img src="https://img.shields.io/badge/Seaborn-Advanced-88d4df?style=flat-square&logo=seaborn&logoColor=white&labelColor=0D1117">
+</td>
+<td align="center" width="25%">
+  <strong>☁️ Core ML & MLOps</strong><br><br>
   <img src="https://img.shields.io/badge/PyTorch-Advanced-EE4C2C?style=flat-square&logo=pytorch&logoColor=white&labelColor=0D1117"><br>
   <img src="https://img.shields.io/badge/TensorFlow-Expert-FF6F00?style=flat-square&logo=tensorflow&logoColor=white&labelColor=0D1117"><br>
   <img src="https://img.shields.io/badge/Scikit--learn-Expert-F7931E?style=flat-square&logo=scikit-learn&logoColor=white&labelColor=0D1117"><br>
-  <img src="https://img.shields.io/badge/Pandas-Expert-150458?style=flat-square&logo=pandas&logoColor=white&labelColor=0D1117">
-</td>
-<td align="center" width="20%">
-  <strong>☁️ Infra & MLOps</strong><br><br>
   <img src="https://img.shields.io/badge/Docker-Advanced-2496ED?style=flat-square&logo=docker&logoColor=white&labelColor=0D1117"><br>
-  <img src="https://img.shields.io/badge/FastAPI-Proficient-009688?style=flat-square&logo=fastapi&logoColor=white&labelColor=0D1117"><br>
-  <img src="https://img.shields.io/badge/AWS-Proficient-FF9900?style=flat-square&logo=amazonaws&logoColor=white&labelColor=0D1117"><br>
-  <img src="https://img.shields.io/badge/Streamlit-Expert-FF4B4B?style=flat-square&logo=streamlit&logoColor=white&labelColor=0D1117">
+  <img src="https://img.shields.io/badge/AWS-Proficient-FF9900?style=flat-square&logo=amazonaws&logoColor=white&labelColor=0D1117">
 </td>
 </tr>
 </table>
