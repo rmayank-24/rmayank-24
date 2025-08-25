@@ -47,13 +47,13 @@
 <br><br>
 <strong>Key Features:</strong>
 <ul>
-<li><strong>Metrics:</strong> Accuracy, Precision, Recall, F1, ROC</li>
-<li><strong>Use Case:</strong> Classification Model Analysis</li>
-<li><strong>Stack:</strong> Python, Flask, TensorFlow</li>
+<li><strong>Frontend:</strong> React, Vite, Tailwind CSS</li>
+<li><strong>Backend:</strong> Node.js, Express.js</li>
+<li><strong>AI Model:</strong> Google Gemini</li>
 </ul>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white">
-<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white">
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white">
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black">
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white">
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black">
 </td>
 <td width="33.3%" align="center" valign="top">
 <h3 align="center">🌦️ Weather MCP Agent</h3>
