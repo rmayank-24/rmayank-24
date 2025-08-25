@@ -12,9 +12,11 @@
 
 <div align="center">
   
-  [![](https://custom-icon-badges.demolab.com/badge/PROFILE_VIEWS-15,243-FF0000?style=for-the-badge&labelColor=0D1117&logo=eye&logoColor=FF0000)](https://github.com/rmayank-24)
-  [![](https://custom-icon-badges.demolab.com/badge/GITHUB_STARS-2,847-FFD700?style=for-the-badge&labelColor=0D1117&logo=star-fill&logoColor=FFD700)](https://github.com/rmayank-24)
-  [![](https://custom-icon-badges.demolab.com/badge/REPOSITORIES-127-00D9FF?style=for-the-badge&labelColor=0D1117&logo=repo&logoColor=00D9FF)](https://github.com/rmayank-24?tab=repositories)
+  <!-- Real-time Profile Views Badge -->
+  <a href="https://github.com/rmayank-24">
+    <img src="https://komarev.com/ghpvc/?username=rmayank-24&label=PROFILE+VIEWS&color=red&style=for-the-badge" alt="Profile Views"/>
+  </a>
+  <!-- Static Badges - The real-time stats are in the cards below -->
   [![](https://custom-icon-badges.demolab.com/badge/LINKEDIN-Connect-0077B5?style=for-the-badge&labelColor=0D1117&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/mayank-rathi-549b19223/)
   [![](https://custom-icon-badges.demolab.com/badge/HIRE_ME-Available-00FF00?style=for-the-badge&labelColor=0D1117&logo=rocket&logoColor=00FF00)](mailto:rathimayank.2005@gmail.com)
   
