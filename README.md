@@ -57,7 +57,7 @@ class MayankRathi:
 </div>
 <p align="center">
 <a href="https://github.com/rmayank-24/AI-POWERED-FRAUD-DETECTION-SYSTEM">
-<img src="https://github.com/user-attachments/assets/222e4765-ca0a-4b70c2f3a13d" width="90%" style="border-radius: 15px; border: 2px solid #00FFE5; box-shadow: 0 0 30px rgba(0,255,229,0.8);">
+<img src="https://github.com/user-attachments/assets/222e4765-ca0a-4986-8e56-4b70c2f3a13d" width="90%" style="border-radius: 15px; border: 2px solid #00FFE5; box-shadow: 0 0 30px rgba(0,255,229,0.8);">
 </a>
 </p>
 <table>
@@ -91,6 +91,27 @@ class MayankRathi:
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white">
 <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+</div>
+<br><hr><br>
+
+<h3 align="center">🌦️ Weather MCP Agent</h3>
+<div align="center">
+<a href="https://github.com/rmayank-24/Weather_MCP_Agent"><img src="https://img.shields.io/badge/STATUS-PROTOTYPE-00D9FF?style=flat&labelColor=0D1117"></a>
+</div>
+<p align="center">
+<a href="https://github.com/rmayank-24/Weather_MCP_Agent">
+<img src="https://raw.githubusercontent.com/rmayank-24/Weather_MCP_Agent/main/images/banner.png" width="90%" style="border-radius: 15px; border: 2px solid #00D9FF; box-shadow: 0 0 30px rgba(0,217,255,0.8);">
+</a>
+</p>
+<table>
+<tr><td><strong>🧠 Agents</strong></td><td><code>MCP, Notary, etc.</code></td></tr>
+<tr><td><strong>🤝 Coordination</strong></td><td><code>Multi-Agent</code></td></tr>
+<tr><td><strong>📡 Data Source</strong></td><td><code>Live Weather API</code></td></tr>
+</table>
+<div align="center">
+<img src="https://img.shields.io/badge/Agentic_AI-FF00FF?style=flat-square&logo=probot&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/API-2F855A?style=flat-square">
 </div>
 </td>
 </tr>
