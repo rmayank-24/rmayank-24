@@ -1,27 +1,19 @@
-<!-- 
-CORRECTED AND POLISHED README FOR MAYANK RATHI
-This version fixes all rendering issues, including missing code blocks and broken image links, 
-to ensure a professional and clean presentation on your GitHub profile.
--->
 
-<!-- =================================================================================================================== -->
-<!-- == HEADER & INTRODUCTION ========================================================================================== -->
-<!-- =================================================================================================================== -->
 
 <div align="center">
-  <img src="[https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,6,12,20,30&height=250&section=header&text=MAYANK%20RATHI&fontSize=70&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=AI%20Engineer%20](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,6,12,20,30&height=250&section=header&text=MAYANK%20RATHI&fontSize=70&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=AI%20Engineer%20)•%20GenAI%20&%20Agentic%20Systems&descAlignY=62&descSize=22" alt="Mayank Rathi | GenAI Engineer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,6,12,20,30&height=250&section=header&text=MAYANK%20RATHI&fontSize=70&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=AI%20Engineer%20•%20GenAI%20&%20Agentic%20Systems&descAlignY=62&descSize=22" alt="Mayank Rathi | GenAI Engineer"/>
 </div>
 
 <div align="center">
-  <a href="[https://git.io/typing-svg](https://git.io/typing-svg)">
-    <img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=500&color=FF00FF&background=FFFFFF00&center=true&vCenter=true&width=1000&lines=Building+State-of-the-Art+Multi-Agent+Systems;Specializing+in+LangGraph+and+CrewAI+Orchestration;Architecting+Scalable+RAG+Pipelines+with+Vector+DBs;Transforming+Ideas+into+Production-Grade+AI+Solutions](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=500&color=FF00FF&background=FFFFFF00&center=true&vCenter=true&width=1000&lines=Building+State-of-the-Art+Multi-Agent+Systems;Specializing+in+LangGraph+and+CrewAI+Orchestration;Architecting+Scalable+RAG+Pipelines+with+Vector+DBs;Transforming+Ideas+into+Production-Grade+AI+Solutions)" alt="Typing SVG">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=500&color=FF00FF&background=FFFFFF00&center=true&vCenter=true&width=1000&lines=Building+State-of-the-Art+Multi-Agent+Systems;Specializing+in+LangGraph+and+CrewAI+Orchestration;Architecting+Scalable+RAG+Pipelines+with+Vector+DBs;Transforming+Ideas+into+Production-Grade+AI+Solutions" alt="Typing SVG">
   </a>
 </div>
 
 <div align="center">
-  <a href="[https://www.linkedin.com/in/mayank-rathi-549b19223/](https://www.linkedin.com/in/mayank-rathi-549b19223/)" target="_blank"><img src="[https://custom-icon-badges.demolab.com/badge/LINKEDIN-Connect-0077B5?style=flat-square&labelColor=0D1117&logo=linkedin&logoColor=0077B5](https://custom-icon-badges.demolab.com/badge/LINKEDIN-Connect-0077B5?style=flat-square&labelColor=0D1117&logo=linkedin&logoColor=0077B5)" alt="LinkedIn"></a>
-  <a href="mailto:rathimayank.2005@gmail.com"><img src="[https://custom-icon-badges.demolab.com/badge/HIRE_ME-Available-00FF00?style=flat-square&labelColor=0D1117&logo=rocket&logoColor=00FF00](https://custom-icon-badges.demolab.com/badge/HIRE_ME-Available-00FF00?style=flat-square&labelColor=0D1117&logo=rocket&logoColor=00FF00)" alt="Hire Me"></a>
-  <img src="[https://komarev.com/ghpvc/?username=rmayank-24&label=PROFILE+VIEWS&color=FF00FF&style=flat-square&labelColor=0D1117](https://komarev.com/ghpvc/?username=rmayank-24&label=PROFILE+VIEWS&color=FF00FF&style=flat-square&labelColor=0D1117)" alt="Profile Views">
+  <a href="https://www.linkedin.com/in/mayank-rathi-549b19223/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/LINKEDIN-Connect-0077B5?style=flat-square&labelColor=0D1117&logo=linkedin&logoColor=0077B5" alt="LinkedIn"></a>
+  <a href="mailto:rathimayank.2005@gmail.com"><img src="https://custom-icon-badges.demolab.com/badge/HIRE_ME-Available-00FF00?style=flat-square&labelColor=0D1117&logo=rocket&logoColor=00FF00" alt="Hire Me"></a>
+  <img src="https://komarev.com/ghpvc/?username=rmayank-24&label=PROFILE+VIEWS&color=FF00FF&style=flat-square&labelColor=0D1117" alt="Profile Views">
 </div>
 
 ---
@@ -45,11 +37,11 @@ to ensure a professional and clean presentation on your GitHub profile.
 
   <h3 align="center">💳 AI-Powered Fraud Detection System</h3>
   <div align="center">
-    <a href="[https://github.com/rmayank-24/AI-POWERED-FRAUD-DETECTION-SYSTEM](https://github.com/rmayank-24/AI-POWERED-FRAUD-DETECTION-SYSTEM)"><img src="[https://img.shields.io/badge/STATUS-PRODUCTION_READY-00FF00?style=flat&labelColor=0D1117](https://img.shields.io/badge/STATUS-PRODUCTION_READY-00FF00?style=flat&labelColor=0D1117)"></a>
+    <a href="https://github.com/rmayank-24/AI-POWERED-FRAUD-DETECTION-SYSTEM"><img src="https://img.shields.io/badge/STATUS-PRODUCTION_READY-00FF00?style=flat&labelColor=0D1117"></a>
   </div>
   <p align="center">
-    <a href="[https://github.com/rmayank-24/AI-POWERED-FRAUD-DETECTION-SYSTEM](https://github.com/rmayank-24/AI-POWERED-FRAUD-DETECTION-SYSTEM)">
-      <img src="[https://github.com/user-attachments/assets/222e4765-ca0a-4986-8e56-4b70c2f3a13d](https://github.com/user-attachments/assets/222e4765-ca0a-4986-8e56-4b70c2f3a13d)" width="90%" style="border-radius: 15px; border: 2px solid #00FFE5; box-shadow: 0 0 30px rgba(0,255,229,0.8);">
+    <a href="https://github.com/rmayank-24/AI-POWERED-FRAUD-DETECTION-SYSTEM">
+      <img src="https://github.com/user-attachments/assets/222e4765-ca0a-4986-8e56-4b70c2f3a13d" width="90%" style="border-radius: 15px; border: 2px solid #00FFE5; box-shadow: 0 0 30px rgba(0,255,229,0.8);">
     </a>
   </p>
   <table>
@@ -59,20 +51,20 @@ to ensure a professional and clean presentation on your GitHub profile.
     <tr><td><strong>📊 UI</strong></td><td><code>Streamlit</code></td></tr>
   </table>
   <div align="center">
-    <img src="[https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)">
-    <img src="[https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)">
-    <img src="[https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+    <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white">
+    <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white">
   </div>
   
   <br><hr><br>
 
   <h3 align="center">📈 EVAL-AI: AI Model Evaluator</h3>
   <div align="center">
-    <a href="[https://github.com/rmayank-24/EVAL-AI](https://github.com/rmayank-24/EVAL-AI)"><img src="[https://img.shields.io/badge/STATUS-LIVE_DEMO-FFD700?style=flat&labelColor=0D1117](https://img.shields.io/badge/STATUS-LIVE_DEMO-FFD700?style=flat&labelColor=0D1117)"></a>
+    <a href="https://github.com/rmayank-24/EVAL-AI"><img src="https://img.shields.io/badge/STATUS-LIVE_DEMO-FFD700?style=flat&labelColor=0D1117"></a>
   </div>
   <p align="center">
-    <a href="[https://github.com/rmayank-24/EVAL-AI](https://github.com/rmayank-24/EVAL-AI)">
-      <img src="[https://github.com/user-attachments/assets/e9d11d3e-0cbb-42d6-9e9a-52142a797b7b](https://github.com/user-attachments/assets/e9d11d3e-0cbb-42d6-9e9a-52142a797b7b)" width="90%" style="border-radius: 15px; border: 2px solid #FFD700; box-shadow: 0 0 30px rgba(255,215,0,0.8);">
+    <a href="https://github.com/rmayank-24/EVAL-AI">
+      <img src="https://github.com/user-attachments/assets/e9d11d3e-0cbb-42d6-9e9a-52142a797b7b" width="90%" style="border-radius: 15px; border: 2px solid #FFD700; box-shadow: 0 0 30px rgba(255,215,0,0.8);">
     </a>
   </p>
   <table>
@@ -81,20 +73,20 @@ to ensure a professional and clean presentation on your GitHub profile.
     <tr><td><strong>💻 Interface</strong></td><td><code>Web-based (Flask)</code></td></tr>
   </table>
   <div align="center">
-    <img src="[https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)">
-    <img src="[https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)">
-    <img src="[https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)">
+    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white">
+    <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
   </div>
 
   <br><hr><br>
 
   <h3 align="center">🌦️ Weather MCP Agent</h3>
   <div align="center">
-    <a href="[https://github.com/rmayank-24/Weather_MCP_Agent](https://github.com/rmayank-24/Weather_MCP_Agent)"><img src="[https://img.shields.io/badge/STATUS-PROTOTYPE-00D9FF?style=flat&labelColor=0D1117](https://img.shields.io/badge/STATUS-PROTOTYPE-00D9FF?style=flat&labelColor=0D1117)"></a>
+    <a href="https://github.com/rmayank-24/Weather_MCP_Agent"><img src="https://img.shields.io/badge/STATUS-PROTOTYPE-00D9FF?style=flat&labelColor=0D1117"></a>
   </div>
   <p align="center">
-    <a href="[https://github.com/rmayank-24/Weather_MCP_Agent](https://github.com/rmayank-24/Weather_MCP_Agent)">
-      <img src="[https://raw.githubusercontent.com/rmayank-24/Weather_MCP_Agent/main/images/banner.png](https://raw.githubusercontent.com/rmayank-24/Weather_MCP_Agent/main/images/banner.png)" width="90%" style="border-radius: 15px; border: 2px solid #00D9FF; box-shadow: 0 0 30px rgba(0,217,255,0.8);">
+    <a href="https://github.com/rmayank-24/Weather_MCP_Agent">
+      <img src="https://raw.githubusercontent.com/rmayank-24/Weather_MCP_Agent/main/images/banner.png" width="90%" style="border-radius: 15px; border: 2px solid #00D9FF; box-shadow: 0 0 30px rgba(0,217,255,0.8);">
     </a>
   </p>
   <table>
@@ -103,9 +95,9 @@ to ensure a professional and clean presentation on your GitHub profile.
     <tr><td><strong>📡 Data Source</strong></td><td><code>Live Weather API</code></td></tr>
   </table>
   <div align="center">
-    <img src="[https://img.shields.io/badge/Agentic_AI-FF00FF?style=flat-square&logo=probot&logoColor=white](https://img.shields.io/badge/Agentic_AI-FF00FF?style=flat-square&logo=probot&logoColor=white)">
-    <img src="[https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)">
-    <img src="[https://img.shields.io/badge/API-2F855A?style=flat-square](https://img.shields.io/badge/API-2F855A?style=flat-square)">
+    <img src="https://img.shields.io/badge/Agentic_AI-FF00FF?style=flat-square&logo=probot&logoColor=white">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+    <img src="https://img.shields.io/badge/API-2F855A?style=flat-square">
   </div>
   
 </td>
@@ -190,11 +182,11 @@ to ensure a professional and clean presentation on your GitHub profile.
 <!-- =================================================================================================================== -->
 
 <h1 align="center">
-  <img src="[https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)" width="1000" height="3">
+  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="1000" height="3">
   <br>
-  <img src="[https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=40&duration=1000&pause=1000&color=FF00FF&center=true&vCenter=true&width=1000&lines=TECHNOLOGY+ARSENAL](https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=40&duration=1000&pause=1000&color=FF00FF&center=true&vCenter=true&width=1000&lines=TECHNOLOGY+ARSENAL)" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=40&duration=1000&pause=1000&color=FF00FF&center=true&vCenter=true&width=1000&lines=TECHNOLOGY+ARSENAL" alt="Typing SVG">
   <br>
-  <img src="[https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)" width="1000" height="3">
+  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="1000" height="3">
 </h1>
 
 <div align="center">
@@ -202,37 +194,37 @@ to ensure a professional and clean presentation on your GitHub profile.
 <tr>
 <td align="center" width="20%">
   <strong>🤖 Agentic AI</strong><br><br>
-  <img src="[https://img.shields.io/badge/LangGraph-Advanced-FF00FF?style=flat-square&logo=graphql&logoColor=white&labelColor=0D1117](https://img.shields.io/badge/LangGraph-Advanced-FF00FF?style=flat-square&logo=graphql&logoColor=white&labelColor=0D1117)"><br>
-  <img src="[https://img.shields.io/badge/LangChain-Expert-1C1E26?style=flat-square&logo=langchain&logoColor=white&labelColor=0D1117](https://img.shields.io/badge/LangChain-Expert-1C1E26?style=flat-square&logo=langchain&logoColor=white&labelColor=0D1117)"><br>
-  <img src="[https://img.shields.io/badge/CrewAI-Proficient-FFD700?style=flat-square&logo=probot&logoColor=white&labelColor=0D1117](https://img.shields.io/badge/CrewAI-Proficient-FFD700?style=flat-square&logo=probot&logoColor=white&labelColor=0D1117)"><br>
-  <img src="[https://img.shields.io/badge/AutoGen-Proficient-00D9FF?style=flat-square&logo=microsoft&logoColor=white&labelColor=0D1117](https://img.shields.io/badge/AutoGen-Proficient-00D9FF?style=flat-square&logo=microsoft&logoColor=white&labelColor=0D1117)">
+  <img src="https://img.shields.io/badge/LangGraph-Advanced-FF00FF?style=flat-square&logo=graphql&logoColor=white&labelColor=0D1117"><br>
+  <img src="https://img.shields.io/badge/LangChain-Expert-1C1E26?style=flat-square&logo=langchain&logoColor=white&labelColor=0D1117"><br>
+  <img src="https://img.shields.io/badge/CrewAI-Proficient-FFD700?style=flat-square&logo=probot&logoColor=white&labelColor=0D1117"><br>
+  <img src="https://img.shields.io/badge/AutoGen-Proficient-00D9FF?style=flat-square&logo=microsoft&logoColor=white&labelColor=0D1117">
 </td>
 <td align="center" width="20%">
   <strong>🎨 LLM Platforms</strong><br><br>
-  <img src="[https://img.shields.io/badge/OpenAI-Advanced-412991?style=flat-square&logo=openai&logoColor=white&labelColor=0D1117](https://img.shields.io/badge/OpenAI-Advanced-412991?style=flat-square&logo=openai&logoColor=white&labelColor=0D1117)"><br>
-  <img src="[https://img.shields.io/badge/Hugging_Face-Expert-FFD700?style=flat-square&logo=huggingface&logoColor=white&labelColor=0D1117](https://img.shields.io/badge/Hugging_Face-Expert-FFD700?style=flat-square&logo=huggingface&logoColor=white&labelColor=0D1117)"><br>
-  <img src="[https://img.shields.io/badge/Claude_3-Proficient-6B46C1?style=flat-square&logo=anthropic&logoColor=white&labelColor=0D1117](https://img.shields.io/badge/Claude_3-Proficient-6B46C1?style=flat-square&logo=anthropic&logoColor=white&labelColor=0D1117)"><br>
-  <img src="[https://img.shields.io/badge/Gemini-Proficient-4285F4?style=flat-square&logo=google&logoColor=white&labelColor=0D1117](https://img.shields.io/badge/Gemini-Proficient-4285F4?style=flat-square&logo=google&logoColor=white&labelColor=0D1117)">
+  <img src="https://img.shields.io/badge/OpenAI-Advanced-412991?style=flat-square&logo=openai&logoColor=white&labelColor=0D1117"><br>
+  <img src="https://img.shields.io/badge/Hugging_Face-Expert-FFD700?style=flat-square&logo=huggingface&logoColor=white&labelColor=0D1117"><br>
+  <img src="https://img.shields.io/badge/Claude_3-Proficient-6B46C1?style=flat-square&logo=anthropic&logoColor=white&labelColor=0D1117"><br>
+  <img src="https://img.shields.io/badge/Gemini-Proficient-4285F4?style=flat-square&logo=google&logoColor=white&labelColor=0D1117">
 </td>
 <td align="center" width="20%">
   <strong>💾 Vector DBs & RAG</strong><br><br>
-  <img src="[https://img.shields.io/badge/Pinecone-Proficient-00BFB3?style=flat-square&logo=pinecone&logoColor=white&labelColor=0D1117](https://img.shields.io/badge/Pinecone-Proficient-00BFB3?style=flat-square&logo=pinecone&logoColor=white&labelColor=0D1117)"><br>
-  <img src="[https://img.shields.io/badge/Chroma-Advanced-8B5CF6?style=flat-square&labelColor=0D1117](https://img.shields.io/badge/Chroma-Advanced-8B5CF6?style=flat-square&labelColor=0D1117)"><br>
-  <img src="[https://img.shields.io/badge/FAISS-Advanced-4A90E2?style=flat-square&logo=facebook&logoColor=white&labelColor=0D1117](https://img.shields.io/badge/FAISS-Advanced-4A90E2?style=flat-square&logo=facebook&logoColor=white&labelColor=0D1117)"><br>
+  <img src="https://img.shields.io/badge/Pinecone-Proficient-00BFB3?style=flat-square&logo=pinecone&logoColor=white&labelColor=0D1117"><br>
+  <img src="https://img.shields.io/badge/Chroma-Advanced-8B5CF6?style=flat-square&labelColor=0D1117"><br>
+  <img src="https://img.shields.io/badge/FAISS-Advanced-4A90E2?style=flat-square&logo=facebook&logoColor=white&labelColor=0D1117"><br>
 </td>
 <td align="center" width="20%">
   <strong>🧬 Core ML</strong><br><br>
-  <img src="[https://img.shields.io/badge/PyTorch-Advanced-EE4C2C?style=flat-square&logo=pytorch&logoColor=white&labelColor=0D1117](https://img.shields.io/badge/PyTorch-Advanced-EE4C2C?style=flat-square&logo=pytorch&logoColor=white&labelColor=0D1117)"><br>
-  <img src="[https://img.shields.io/badge/TensorFlow-Expert-FF6F00?style=flat-square&logo=tensorflow&logoColor=white&labelColor=0D1117](https://img.shields.io/badge/TensorFlow-Expert-FF6F00?style=flat-square&logo=tensorflow&logoColor=white&labelColor=0D1117)"><br>
-  <img src="[https://img.shields.io/badge/Scikit--learn-Expert-F7931E?style=flat-square&logo=scikit-learn&logoColor=white&labelColor=0D1117](https://img.shields.io/badge/Scikit--learn-Expert-F7931E?style=flat-square&logo=scikit-learn&logoColor=white&labelColor=0D1117)"><br>
-  <img src="[https://img.shields.io/badge/Pandas-Expert-150458?style=flat-square&logo=pandas&logoColor=white&labelColor=0D1117](https://img.shields.io/badge/Pandas-Expert-150458?style=flat-square&logo=pandas&logoColor=white&labelColor=0D1117)">
+  <img src="https://img.shields.io/badge/PyTorch-Advanced-EE4C2C?style=flat-square&logo=pytorch&logoColor=white&labelColor=0D1117"><br>
+  <img src="https://img.shields.io/badge/TensorFlow-Expert-FF6F00?style=flat-square&logo=tensorflow&logoColor=white&labelColor=0D1117"><br>
+  <img src="https://img.shields.io/badge/Scikit--learn-Expert-F7931E?style=flat-square&logo=scikit-learn&logoColor=white&labelColor=0D1117"><br>
+  <img src="https://img.shields.io/badge/Pandas-Expert-150458?style=flat-square&logo=pandas&logoColor=white&labelColor=0D1117">
 </td>
 <td align="center" width="20%">
   <strong>☁️ Infra & MLOps</strong><br><br>
-  <img src="[https://img.shields.io/badge/Docker-Advanced-2496ED?style=flat-square&logo=docker&logoColor=white&labelColor=0D1117](https://img.shields.io/badge/Docker-Advanced-2496ED?style=flat-square&logo=docker&logoColor=white&labelColor=0D1117)"><br>
-  <img src="[https://img.shields.io/badge/FastAPI-Proficient-009688?style=flat-square&logo=fastapi&logoColor=white&labelColor=0D1117](https://img.shields.io/badge/FastAPI-Proficient-009688?style=flat-square&logo=fastapi&logoColor=white&labelColor=0D1117)"><br>
-  <img src="[https://img.shields.io/badge/AWS-Proficient-FF9900?style=flat-square&logo=amazonaws&logoColor=white&labelColor=0D1117](https://img.shields.io/badge/AWS-Proficient-FF9900?style=flat-square&logo=amazonaws&logoColor=white&labelColor=0D1117)"><br>
-  <img src="[https://img.shields.io/badge/Streamlit-Expert-FF4B4B?style=flat-square&logo=streamlit&logoColor=white&labelColor=0D1117](https://img.shields.io/badge/Streamlit-Expert-FF4B4B?style=flat-square&logo=streamlit&logoColor=white&labelColor=0D1117)">
+  <img src="https://img.shields.io/badge/Docker-Advanced-2496ED?style=flat-square&logo=docker&logoColor=white&labelColor=0D1117"><br>
+  <img src="https://img.shields.io/badge/FastAPI-Proficient-009688?style=flat-square&logo=fastapi&logoColor=white&labelColor=0D1117"><br>
+  <img src="https://img.shields.io/badge/AWS-Proficient-FF9900?style=flat-square&logo=amazonaws&logoColor=white&labelColor=0D1117"><br>
+  <img src="https://img.shields.io/badge/Streamlit-Expert-FF4B4B?style=flat-square&logo=streamlit&logoColor=white&labelColor=0D1117">
 </td>
 </tr>
 </table>
@@ -243,5 +235,5 @@ to ensure a professional and clean presentation on your GitHub profile.
 <!-- =================================================================================================================== -->
 
 <div align="center">
-  <img src="[https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,6,12,20,30&height=150&section=footer&animation=twinkling&fontColor=00FFE5&fontSize=20&fontAlignY=80&desc=](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,6,12,20,30&height=150&section=footer&animation=twinkling&fontColor=00FFE5&fontSize=20&fontAlignY=80&desc=)©%202025%20Mayank%20Rathi%20|%20Architecting%20the%20Age%20of%20Autonomous%20Intelligence&descAlign=50&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,6,12,20,30&height=150&section=footer&animation=twinkling&fontColor=00FFE5&fontSize=20&fontAlignY=80&desc=©%202025%20Mayank%20Rathi%20|%20Architecting%20the%20Age%20of%20Autonomous%20Intelligence&descAlign=50&descSize=18" />
 </div>
